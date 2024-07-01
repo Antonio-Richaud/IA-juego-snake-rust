@@ -44,8 +44,8 @@ Desarrollado con [Rust](https://www.rust-lang.org/) y el motor de juegos [Macroq
 # Uso
 - Clonar el repositorio
 ```bash
-git git@github.com:Antonio-Richaud/AI-snake.git
-cd AI-snake
+git git@github.com:Antonio-Richaud/IA-juego-snake-rust.git
+cd IA-juego-snake-rust
 ```
 - Correr la simulación
 ```bash
