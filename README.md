@@ -4,7 +4,7 @@ Una red neuronal que aprende a jugar al juego de snake.
 Desarrollado con [Rust](https://www.rust-lang.org/) y el motor de juegos [Macroquad](https://github.com/not-fl3/macroquad).
 
 # Explicación y Video Timelapse
-[![TikTok Video](https://icons8.com/icon/lTkH3THtr7SL/tiktok)](https://www.tiktok.com/@antonio_richaud/video/7385358589981887750?is_from_webapp=1&sender_device=pc&web_id=7353830675621348869)
+[![TikTok Video](https://img.icons8.com/?size=100&id=lTkH3THtr7SL&format=png&color=000000)](https://www.tiktok.com/@antonio_richaud/video/7385358589981887750?is_from_webapp=1&sender_device=pc&web_id=7353830675621348869)
 
 # Controles
 - `Tab` - Habilitar/Deshabilitar visualización
