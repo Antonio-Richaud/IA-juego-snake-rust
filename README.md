@@ -4,7 +4,7 @@ Una red neuronal que aprende a jugar al juego de snake.
 Desarrollado con [Rust](https://www.rust-lang.org/) y el motor de juegos [Macroquad](https://github.com/not-fl3/macroquad).
 
 # Explicación y Video Timelapse
-[![TikTok Video](https://img.icons8.com/ios-filled/50/000000/tiktok.png)](https://www.tiktok.com/@antonio_richaud/video/7385358589981887750?is_from_webapp=1&sender_device=pc&web_id=7353830675621348869)
+[![TikTok Video](https://icons8.com/icon/lTkH3THtr7SL/tiktok)](https://www.tiktok.com/@antonio_richaud/video/7385358589981887750?is_from_webapp=1&sender_device=pc&web_id=7353830675621348869)
 
 # Controles
 - `Tab` - Habilitar/Deshabilitar visualización
@@ -56,3 +56,17 @@ cargo run --release
 - El archivo de configuración del proyecto se encuentra en `src/configs.rs`
 - Deshabilitar `VIZ_DARK_THEME` cambia el tema.
 - La función de streams aún es experimental. Un solo stream con 1000 serpientes dará resultados rápidos.
+
+---
+
+**Conecta conmigo en alguna de mis redes sociales 🤓**
+
+Si deseas seguir mi progreso o conectar conmigo, puedes hacerlo a través de mis redes sociales o mi portafolio web:
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-richaud/)
+[![X](https://img.shields.io/badge/-(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Antonio_Richaud)
+[![Youtube](https://img.shields.io/badge/-YOUTUBE-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AntonioRichaud/)
+[![TIKTOK](https://img.shields.io/badge/-TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@antonio_richaud)
+[![Antonio-Richaud.com](https://img.shields.io/badge/-ANTONIORICHAUD.COM-8E2DE2?style=for-the-badge&logo=react&logoColor=white)](https://antonio-richaud.com/)
+
+---
